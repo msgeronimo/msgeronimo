@@ -1,0 +1,9 @@
+{
+	"name": "msgeronimo",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f821cb90-9ddc-41e5-bccc-41306ca42164",
+		"tenantId": "64d34ddd-aff0-4d95-b7f1-0734a5c845e5"
+	}
+}
